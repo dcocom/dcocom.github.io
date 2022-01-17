@@ -93,7 +93,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "\n@import url(\"https://fonts.googleapis.com/css?family=Oswald:300|Playfair+Display|Questrial\");\n/* You can add global styles to this file, and also import other style files */\nbody {\n  margin: 0;\n}\n.rm-section-title {\n  letter-spacing: 3px;\n  text-transform: capitalize;\n  font-family: 'Oswald', sans-serif;\n  margin-bottom: 2rem;\n  text-decoration: underline;\n  text-align: center;\n}\n", ""]);
+exports.push([module.i, "\n@import url(\"https://fonts.googleapis.com/css2?family=Lexend:wght@100;300;400&family=Manrope:wght@200;300;400&family=Playfair+Display&display=swap\");\n/* You can add global styles to this file, and also import other style files */\nbody {\n  margin: 0;\n  font-family: 'Manrope', sans-serif;\n  letter-spacing: 0.5px;\n}\n.rm-section-title {\n  letter-spacing: 2.5px;\n  text-transform: capitalize;\n  font-family: 'Lexend', sans-serif;\n  margin-bottom: 2rem;\n  text-decoration: underline;\n  text-align: center;\n}\n", ""]);
 
 // exports
 
